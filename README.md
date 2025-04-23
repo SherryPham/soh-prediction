@@ -69,7 +69,7 @@ This Streamlit application predicts the State of Health (SOH) of lithium-ion bat
 
 ## Deployment
 
-This app is deployed on Streamlit Cloud and can be accessed at: [https://soh-prediction-5olaajfhgkvjd8kyk8in6s.streamlit.app/](https://soh-prediction-app/)
+This app is deployed on Streamlit Cloud and can be accessed at: [https://soh-prediction-app/](https://soh-prediction-5olaajfhgkvjd8kyk8in6s.streamlit.app/)
 
 ## Model Information
 
@@ -93,10 +93,5 @@ Lithium-ion battery degradation typically occurs through:
    - Particle cracking from mechanical stress
    - Dissolution of transition metals
    - Loss of electrical contact
-
-
-## License
-
-This project is licensed under the MIT License 
 
 
