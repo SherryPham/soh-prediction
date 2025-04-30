@@ -40,8 +40,8 @@ This Streamlit application predicts the State of Health (SOH) of lithium-ion bat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SherryPham/COS40005.git
-   cd COS40005
+   git clone https://github.com/SherryPham/soh-prediction.git
+   cd soh-prediction
    ```
 
 2. Create a virtual environment:
